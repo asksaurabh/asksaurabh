@@ -1,0 +1,99 @@
+<h2 align="center"><img src="header.gif"></h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%232A66B0&size=35&duration=5007&lines=Hi%2C+I'm+Saurabh+Kumar;A+Fullstack+developer" />
+</p>
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Saurabh Kumar"/> </p>
+
+
+# 😎About Me
+-   🔭 I'm third year Undergrad at National Institute of Technology, Delhi.
+
+-   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Web Development.
+   
+-   👯 I'm currently learning Ruby On Rails.
+   
+-   🤔 I'm looking for a Summer Internship. [May to August 2022]
+
+-   💬 Ask me about **anything**, **anytime**. (You know my [Username](https://github.com/asksaurabh)!😉)
+
+<br>
+
+# 🛠Tech Stack
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby&logoColor=red">
+<img src="https://img.shields.io/badge/-RubyOnRails-black?style=flat-square&logo=RubyOnRails&logoColor=red">
+</p>
+
+<br>
+
+# 🤝Let's connect? 
+
+<p align="center">
+  <a href="https://twitter.com/asksaurabh101">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/asksaurabh101" alt="Twitter" />
+  </a>
+  <a href="mailto: asksaurabh101@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:asksaurabh101@gmail.com" alt="Gmail" />
+  </a>
+  <a href="https://github.com/asksaurabh">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/asksaurabh" alt="GitHub badge" />
+  </a>
+  <a href="https://leetcode.com/asksaurabh101/">
+  <img src="https://img.shields.io/badge/-Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white&link=https://leetcode.com/asksaurabh101/" alt="LeetCode" />
+  <a href="https://www.linkedin.com/in/saurabh-kumar-aa89001ab/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-kumar-aa89001ab/" alt="LinkedIn" />
+  </a>
+</p>
+
+<br>
+
+# ⚙️Analytics
+<br>
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">    <img  alt="asksaurabh's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/asksaurabh?cardType=github&theme=tokyonight" />  
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asksaurabh&&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asksaurabh&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p>
+
+<br>
+
+# 👑GitHub Profile Trophy
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=asksaurabh&margin-w=15&row=2&column=3&theme=matrix" /></a>
+</p>
+
+<br>
+
+# My Contribution Graph
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=asksaurabh&theme=redical">
+</p> 
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p>
