@@ -69,18 +69,14 @@
 
 # ⚙️Analytics
 <br>
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">    <img  alt="asksaurabh's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/asksaurabh?cardType=github&theme=tokyonight" />  
-  </a>
-</p>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asksaurabh&&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a>
-</p>
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asksaurabh&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
+
+| <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/asksaurabh?cardType=github&theme=tokyonight" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asksaurabh&&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br>
 
