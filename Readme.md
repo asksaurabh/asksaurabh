@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&color=%232A66B0&size=35&duration=5007&lines=Hi%2C+I'm+Saurabh+Kumar;A+Fullstack+developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23348AAD&size=17&center=true&vCenter=true&lines=Hi%2C+My+name+is+Saurabh+Kumar;Ur+friendly+neighbourhood+Web+Developer;Welcome+to+my+GitHub+Profile" />
 </p>
 
 <h2 align="center"><img src="header.gif"></h2>
