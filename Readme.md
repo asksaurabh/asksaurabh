@@ -42,8 +42,6 @@
 <img src="https://img.shields.io/badge/-RubyOnRails-black?style=flat-square&logo=RubyOnRails&logoColor=red">
 </p>
 
-<br>
-
 # 🤝Let's connect? 
 
 <p align="center">
@@ -63,12 +61,8 @@
   </a>
 </p>
 
-<br>
-
 # ⚙️Analytics
 <br>
-
-
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asksaurabh&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
@@ -76,14 +70,10 @@
 | <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/asksaurabh?cardType=github&theme=tokyonight" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asksaurabh&&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br>
-
 # 👑GitHub Profile Trophy
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=asksaurabh&margin-w=15&row=2&column=3&theme=matrix" /></a>
 </p>
-
-<br>
 
 # My Contribution Graph
 <p align = "center">
