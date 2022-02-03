@@ -75,9 +75,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=asksaurabh&margin-w=15&row=2&column=3&theme=matrix" /></a>
 </p>
 
-# My Contribution Graph
-<p align = "center">
+<!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=asksaurabh&theme=redical">
-</p> 
+</p>  -->
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p>
