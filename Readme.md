@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23348AAD&size=17&center=true&lines=Hi%2C+My+name+is+Saurabh+Kumar;Ur+friendly+neighbourhood+Web+Developer;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23348AAD&size=17&center=true&lines=Hi%2C+My+name+is+Saurabh+Kumar;Welcome+to+my+GitHub+Profile" />
 </p>
 
 <h2 align="center"><img src="header.gif"></h2>
@@ -79,4 +79,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=asksaurabh&theme=redical">
 </p>  -->
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p>
+<!-- <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p> -->
