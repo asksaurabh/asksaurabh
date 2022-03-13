@@ -4,11 +4,11 @@
 
 <h2 align="center"><img src="header.gif"></h2>
 
-<p align="center">
+<!-- <p align="center">
  <img width="50pxpx" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-</p>
+</p> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Saurabh Kumar"/> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=asksaurabh&color=blue" alt="Saurabh Kumar"/> </p> -->
 
 
 # 😎About Me
@@ -79,4 +79,8 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=asksaurabh&theme=redical">
 </p>  -->
 
+<<<<<<< HEAD
 <!-- <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p> -->
+=======
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p>
+>>>>>>> c25f6212352f50495396f82bc674ffe8694541a6
