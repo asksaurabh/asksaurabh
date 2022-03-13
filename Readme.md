@@ -79,8 +79,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=asksaurabh&theme=redical">
 </p>  -->
 
-<<<<<<< HEAD
 <!-- <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p> -->
-=======
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Saurabh Kumar"/> </p>
->>>>>>> c25f6212352f50495396f82bc674ffe8694541a6
