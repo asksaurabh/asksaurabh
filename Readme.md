@@ -12,13 +12,13 @@
 
 
 # 😎About Me
--   🔭 I'm a third year undergraduate student from National Institute of Technology, Delhi.
+-   🔭 I'm a final year undergrad student from National Institute of Technology, Delhi.
 
 -   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Web Development.
    
 -   👯 I'm currently exploring Ruby On Rails.
    
--   🤔 I'm looking for a Summer Internship. [May to August 2022]
+-   🤔 I'm currently looking for remote full time opportunites.
 
 -   💬 Ask me about **anything**, **anytime**. (You know my [Username](https://github.com/asksaurabh)!😉)
 
