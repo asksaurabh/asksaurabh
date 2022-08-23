@@ -11,7 +11,7 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=asksaurabh&color=blue" alt="Saurabh Kumar"/> </p> -->
 
 
-# 😎About Me
+# About Me
 -   🔭 I'm a final year undergrad student from National Institute of Technology, Delhi.
 
 -   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Web Development.
