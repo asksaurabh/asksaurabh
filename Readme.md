@@ -14,13 +14,13 @@
 # About Me
 -   🔭 I'm a final year undergrad student from National Institute of Technology, Delhi.
 
--   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Web Development.
+-   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Full stack web development.
    
--   👯 I'm currently exploring Ruby On Rails.
+-   👯 I'm currently exploring React.
    
 -   🤔 I'm currently looking for remote full time opportunites.
 
--   💬 Ask me about **anything**, **anytime**. (You know my [Username](https://github.com/asksaurabh)!😉)
+-   💬 Ask me about **anything**, **anytime**.
 
 # 🛠Tech Stack
 <p align="center">
