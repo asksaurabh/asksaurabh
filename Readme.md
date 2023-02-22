@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23348AAD&size=17&center=true&lines=Hi%2C+My+name+is+Saurabh+Kumar;Welcome+to+my+GitHub+Profile" />
 </p>
 
-<h2 align="center"><img src="header.gif"></h2>
+<!-- <h2 align="center"><img src="header.gif"></h2> -->
+<a href="https://unsplash.com/photos/SZgVZPbQ7RE"><h2 align="center"><img src="header.jpg"></h2></a>
 
 <!-- <p align="center">
  <img width="50pxpx" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
