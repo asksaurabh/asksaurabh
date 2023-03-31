@@ -11,14 +11,13 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=asksaurabh&color=blue" alt="Saurabh Kumar"/> </p> -->
 
-
-# About Me
+## About Me
 -   🔭 I'm a final year undergrad student from National Institute of Technology, Delhi.
 -   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Full stack web development.
 -   👯 I'm currently exploring React.
 -   🤔 I'm currently looking for remote full time opportunites.
 
-# 🛠Tech Stack
+## 🛠Tech Stack
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -38,7 +37,7 @@
 <img src="https://img.shields.io/badge/-RubyOnRails-black?style=flat-square&logo=RubyOnRails&logoColor=red">
 </p>
 
-# 🤝Let's connect? 
+## 🤝Let's connect? 
 
 <p align="center">
   <a href="https://twitter.com/asksaurabh101">
@@ -57,7 +56,7 @@
   </a>
 </p>
 
-# ⚙️Analytics
+## ⚙️Analytics
 <br>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asksaurabh&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
