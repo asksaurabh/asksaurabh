@@ -56,6 +56,7 @@
   </a>
 </p>
 
+<!-- 
 ## ⚙️Analytics
 <br>
 <p align = "center">
@@ -64,6 +65,7 @@
 
 | <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/asksaurabh?cardType=github&theme=tokyonight" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asksaurabh&&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
 
 <!-- # 👑GitHub Profile Trophy
 <p align="center">
