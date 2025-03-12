@@ -13,7 +13,7 @@
 
 ## About Me
 -   👨‍💻 I'm a Software Engineer at [Celigo, Inc](https://www.celigo.com/), one of the leading iPaaS platforms.
--   🔭 I'm graduated from National Institute of Technology, Delhi in Electrical and Electronics Engineering.
+-   🔭 I graduated from National Institute of Technology, Delhi with a degree in Electrical and Electronics Engineering.
 -   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Full stack web development.
 -   👯 I'm currently exploring React.
 -   🤔 I'm currently looking for remote/hybrid full time opportunites.
