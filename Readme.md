@@ -12,10 +12,11 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=asksaurabh&color=blue" alt="Saurabh Kumar"/> </p> -->
 
 ## About Me
--   🔭 I'm a final year undergrad student from National Institute of Technology, Delhi.
+-   👨‍💻 I'm a Software Engineer at [Celigo, Inc](https://www.celigo.com/), one of the leading iPaaS platforms.
+-   🔭 I'm graduated from National Institute of Technology, Delhi in Electrical and Electronics Engineering.
 -   🌱 I'm proficient in _[Data Structures And Algorithms](https://leetcode.com/asksaurabh101/)_ and Full stack web development.
 -   👯 I'm currently exploring React.
--   🤔 I'm currently looking for remote full time opportunites.
+-   🤔 I'm currently looking for remote/hybrid full time opportunites.
 
 ## 🛠Tech Stack
 <p align="center">
